@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik daudz eiropiešu nepietiek ar fiziskām aktivitātēm?",
+  "subtitle": "Līdz 2025. gadam Portugālē bija visaugstākais nepietiekami aktīvo iedzīvotāju īpatsvars – 51,7 procenti, savukārt Zviedrijā – viszemākais – 8,7 procenti.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Iedzīvotāju procentuālā daļa, kas nedēļā velta mazāk nekā 150 minūtes mērenas intensitātes fiziskām aktivitātēm vai mazāk nekā 75 minūtes augstas intensitātes fiziskām aktivitātēm vai līdzvērtīgam apjomam. Iedzīvotāji vecumā no 18 gadiem.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "PVO (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "extraInfo_MT": "Ekrānuzņēmumā nav pieejami dati.",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
