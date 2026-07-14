@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Kolik Evropanů dostatečně necvičí?",
+  "subtitle": "Do roku 2025 mělo Portugalsko nejvyšší podíl nedostatečně aktivních lidí s 51,7 procenta, zatímco Švédsko mělo nejnižší s 8,7 procenta.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Procento populace dosahující méně než 150 minut fyzické aktivity střední intenzity týdně nebo méně než 75 minut fyzické aktivity vysoké intenzity týdně, nebo ekvivalentu. Populace ve věku 18 let a starší.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "WHO (2026)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "extraInfo_MT": "Na snímku obrazovky nejsou k dispozici žádná data",
+  "legend1": "Nejsou k dispozici žádná data",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
