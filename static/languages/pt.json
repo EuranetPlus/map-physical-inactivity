@@ -1,13 +1,12 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Quantos europeus não se exercitam o suficiente?",
+  "subtitle": "Em 2025, Portugal apresentava a maior percentagem de pessoas insuficientemente ativas, com 51,7%, enquanto a Suécia apresentava a menor, com 8,7%.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "Percentual da população que pratica menos de 150 minutos de atividade física de intensidade moderada por semana, ou menos de 75 minutos de atividade física de intensidade vigorosa por semana, ou equivalente. População com 18 anos ou mais.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "OMS (2026)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
+  "extraInfo_MT": "Não há dados disponíveis na captura de tela.",
+  "legend1": "Não há dados disponíveis.",
   "tooltipExtraInfoLabel": "Clique aqui"
 }
