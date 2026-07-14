@@ -1,13 +1,12 @@
 {
-  "title": "Hvilke EU-lande har de bedste beskæftigelsesmuligheder?",
-  "subtitle": "Fremtidig vækst i beskæftigelsen i disse lande i 2022-2035 anslås til 5,6 %.",
+  "title": "Hvor mange europæere motionerer ikke nok?",
+  "subtitle": "I 2025 havde Portugal den højeste andel af utilstrækkeligt aktive personer med 51,7 procent, mens Sverige havde den laveste med 8,7 procent.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Procentdel af befolkningen, der opnår mindre end 150 minutters moderat fysisk aktivitet om ugen eller mindre end 75 minutters højintensiv fysisk aktivitet om ugen eller tilsvarende. Befolkning på 18 år eller derover.",
   "textSourceDescription": "Kilde",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få adgang til data",
-  "extraInfo_DE": "Tyskland fremskynder udrulningen af vedvarende energi, sigter mod 80 % ren strøm inden 2030",
-  "extraInfo_FR": "Det franske parlament godkender lovforslaget om større immigrationsreformer under landsdækkende protester",
-  "legend1": "Ingen tilgængelige data",
+  "textSource": "WHO (2026)",
+  "linkDataAccessDescription": "Få adgang til dataene",
+  "extraInfo_MT": "Ingen data tilgængelige på skærmbilledet",
+  "legend1": "Ingen data tilgængelige",
   "tooltipExtraInfoLabel": "Klik her"
 }
