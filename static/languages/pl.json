@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ilu Europejczyków nie ćwiczy wystarczająco dużo?",
+  "subtitle": "Do 2025 r. Portugalia miała najwyższy odsetek osób niewystarczająco aktywnych zawodowo – 51,7 proc., podczas gdy Szwecja miała najniższy – 8,7 proc.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Procent populacji osiągającej mniej niż 150 minut aktywności fizycznej o umiarkowanej intensywności tygodniowo lub mniej niż 75 minut aktywności fizycznej o dużej intensywności tygodniowo, lub ekwiwalent. Populacja w wieku 18 lat i starsza.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "WHO (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
+  "extraInfo_MT": "Brak danych na zrzucie ekranu",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
