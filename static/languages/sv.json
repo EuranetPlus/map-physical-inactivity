@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur många européer motionerar inte tillräckligt?",
+  "subtitle": "År 2025 hade Portugal den högsta andelen otillräckligt aktiva personer med 51,7 procent, medan Sverige hade den lägsta med 8,7 procent.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Andel av befolkningen som utför mindre än 150 minuter måttlig fysisk aktivitet per vecka, eller mindre än 75 minuter högintensiv fysisk aktivitet per vecka, eller motsvarande. Befolkning 18 år eller äldre.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "WHO (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
+  "extraInfo_MT": "Ingen data tillgänglig i skärmdumpen",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
