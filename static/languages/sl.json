@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Koliko Evropejcev se ne giblje dovolj?",
+  "subtitle": "Do leta 2025 je imela Portugalska najvišji delež premalo aktivnih ljudi, in sicer 51,7 odstotka, Švedska pa najnižjega, in sicer 8,7 odstotka.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Odstotek prebivalstva, ki dosega manj kot 150 minut telesne dejavnosti zmerne intenzivnosti na teden ali manj kot 75 minut telesne dejavnosti visoke intenzivnosti na teden ali enakovredno. Prebivalstvo, staro 18 let ali več.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "SZO (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "extraInfo_MT": "Na posnetku zaslona ni podatkov",
+  "legend1": "Ni na voljo podatkov",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
