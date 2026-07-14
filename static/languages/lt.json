@@ -1,13 +1,12 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kiek europiečių nepakankamai mankštinasi?",
+  "subtitle": "Iki 2025 m. didžiausia nepakankamai aktyvių žmonių dalis buvo Portugalijoje – 51,7 proc., o mažiausia – Švedijoje – 8,7 proc.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Gyventojų, kurie per savaitę vidutinio intensyvumo fizinei veiklai skiria mažiau nei 150 minučių arba didelio intensyvumo fizinei veiklai mažiau nei 75 minutes arba lygiavertį kiekį, procentinė dalis. 18 metų ir vyresni gyventojai.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "PSO (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
+  "extraInfo_MT": "Ekrano kopijoje nėra duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
