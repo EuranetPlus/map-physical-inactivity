@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel Europeanen bewegen te weinig?",
+  "subtitle": "In 2025 had Portugal het hoogste percentage onvoldoende actieve mensen met 51,7 procent, terwijl Zweden het laagste percentage had met 8,7 procent.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Percentage van de bevolking dat minder dan 150 minuten matig intensieve lichaamsbeweging per week verricht, of minder dan 75 minuten intensieve lichaamsbeweging per week, of een equivalent daarvan. Bevolking van 18 jaar en ouder.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "WHO (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
+  "extraInfo_MT": "Geen gegevens beschikbaar in de schermafbeelding.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
