@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui palju eurooplasi ei treeni piisavalt?",
+  "subtitle": "2025. aastaks oli ebapiisavalt aktiivsete inimeste osakaal kõrgeim Portugalis, 51,7 protsenti, samas kui madalaim oli see Rootsis, 8,7 protsenti.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Elanikkonna protsent, kes tegelevad nädalas vähem kui 150 minutit mõõduka intensiivsusega füüsilise aktiivsusega või vähem kui 75 minutit suure intensiivsusega füüsilise aktiivsusega või sellega võrdväärse tegevusega. 18-aastane ja vanem elanikkond.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "WHO (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "extraInfo_MT": "Ekraanipildil pole andmeid saadaval",
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
