@@ -1,13 +1,12 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliko Europljana ne vježba dovoljno?",
+  "subtitle": "Do 2025. godine Portugal je imao najveći udio nedovoljno aktivnih ljudi s 51,7 posto, dok je Švedska imala najniži s 8,7 posto.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Postotak stanovništva koje postiže manje od 150 minuta tjelesne aktivnosti umjerenog intenziteta tjedno ili manje od 75 minuta tjelesne aktivnosti visokog intenziteta tjedno ili ekvivalent. Stanovništvo u dobi od 18 godina ili više.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "SZO (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
+  "extraInfo_MT": "Na snimci zaslona nema dostupnih podataka",
   "legend1": "Nema dostupnih podataka",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
