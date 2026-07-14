@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm Ewropej ma jagħmlux biżżejjed eżerċizzju?",
+  "subtitle": "Sal-2025, il-Portugall kellu l-ogħla sehem ta’ nies mhux attivi biżżejjed b’51.7 fil-mija, filwaqt li l-Iżvezja kellha l-inqas bi 8.7 fil-mija.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Perċentwal tal-popolazzjoni li twettaq inqas minn 150 minuta ta' attività fiżika ta' intensità moderata fil-ġimgħa, jew inqas minn 75 minuta ta' attività fiżika ta' intensità qawwija fil-ġimgħa, jew ekwivalenti. Popolazzjoni ta' 18-il sena jew aktar.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "Id-WHO (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
+  "extraInfo_MT": "L-ebda dejta disponibbli fl-iskrinshot",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
