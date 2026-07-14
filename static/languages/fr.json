@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Combien d'Européens ne font pas assez d'exercice ?",
+  "subtitle": "En 2025, le Portugal affichait la proportion la plus élevée de personnes insuffisamment actives, à 51,7 %, tandis que la Suède présentait la plus faible, à 8,7 %.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Pourcentage de la population pratiquant moins de 150 minutes d'activité physique d'intensité modérée par semaine, ou moins de 75 minutes d'activité physique d'intensité vigoureuse par semaine, ou l'équivalent. Population âgée de 18 ans et plus.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "OMS (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
+  "extraInfo_MT": "Aucune donnée disponible sur la capture d'écran",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
